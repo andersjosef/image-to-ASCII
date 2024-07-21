@@ -5,6 +5,7 @@ Works with PNG and JPG
 Example: ./program image.png image.txt
 you can specify step freqency of pixels by adding a number at the end.
 
+```
              JJJJJJJJJJJJJJJJJ
              JJJJJJJJJJJJJJJJJ
              JJJJJJJJJJJJJJJJJ
@@ -137,3 +138,5 @@ rth?+7^.+?1^o/i^+sFj/JFr+FsFxs +iiot(F7+,l7 1JFFo(i_,++??l-Fot11FJx1lxx?ritF^1+t
 +,7FJ?/_Ft+-x1,t?,1lx7(?1,_Fl-xsstlx1r?t^,ttFi1stsit(oj7/ 1J1olj1llt+J+Fi/(?7F(iiJ//?((7J(Fti((Fiii1tt1tli1t11t11tttlllolti(1olo1loo1oolooxxxxxxjxxxjxxjxjj2jxij22j2SStl22jllo.F(,t?x F_JF/((s(x-117t7t17r7tsJ^/(-ilotiFilto11oitt11Ftlo+xt1iFtJto+/?i1t,i.2lx
 7.+F__+-(7Fs1irl(/_F+/.rs^/(/_ltl(rrs(J7.isFxl?^(s.?rioFt-x1?_lltlttoi?t_1(i7F/J?JssJ(F7(FiFF(FF(FFitl1(FFi111tt11illlottFttoo(F1lloxolooooxxxxxxxxjjxxjjj22x2Sjojxjxt2Sxojjtjl.ol-l.i sJ(77ri/( x-trt(tttsttJoi/tFF(F1F11i11i1iittllootlloFlitttl(JiloFs77-i1o
 (/s.iF/,+r7JJrl1^^r(s(xrJsrs2,FJFJJxtlFrJs7lrx1itjF?t?s(7-xj1?(?ijllx(?r_sFJs7i7FF(FJFFi11i(F(F((itttttttiit11iFFtlolttlt1Ft^ottooixiolooooooxxxxxxxxxxjjjjjxjxjolFoojjjjjo2lxlxjxj7o,-t 7F?iit(-tJttlisitF/sF7,17JF(tt(1i1tolF1tFFil1tt1tlt((77(ir71FFi+lF^s((
+
+```
