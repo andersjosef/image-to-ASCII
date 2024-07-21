@@ -5,6 +5,74 @@ Works with PNG and JPG
 Example: ./program image.png image.txt
 you can specify step freqency of pixels by adding a number at the end.
 
+             JJJJJJJJJJJJJJJJJ
+             JJJJJJJJJJJJJJJJJ
+             JJJJJJJJJJJJJJJJJ
+             JJJJJJJJJJJJJJJJJ
+             JJJJJJJJJJJJJJJJJ
+         JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+         JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+         JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
+         JJJJJJJJJJJJJJJJJJJJJJJJJJJJ7JJJJ_
+         rrrrrrrrrrrrrrrrFSSSSSSSS
+         rrrrrrrrrrrrrrrrFSSSSSSSS
+         rrrrrrrrrrrrrrrrFSSSSSSSS
+        .////////rrrrr///FSSS22222
+     rrrrSSSSSSSSrrrrSSSSSSSSSrrr/SSSSSSSSSSSS
+     rrrrSSSSSSSSrrrrSSSSSSSSSrrr/SSSSSSSSSSSS
+     rrrrSSSSSSSSrrrrSSSSSSSSSrrr/SSSSSSSSSSSS
+     rrrrSSSSSSSSrrrr2SSSSSSSSrrrrSSSSSSSSSSSS
+     rrrrSSSSSSSSrrrrrrrrFSSSSSSS2rrrrSSSSSSSSSSSSS
+     rrrrSSSSSSSSrrrrrrrrFSSSSSSS2rrrrSSSSSSSSSSSSS
+     rrrrSSSSSSSSrrrrrrrrFSSSSSSS2rrrrSSSSSSSSSSSSS
+     rrrrSSSSSSSSrrrrrrrrFSSSSSSS2rrrrSSSSSSSSSSSSS
+rrrrrrrr/rrr+SSSS22222222dSSSSrrr+rrrrrrrrrrrr
+rrrrrrrrrrrr/SSSSSSSSSSSSSSSSSrrrrrrrrrrrrrrrr
+rrrrrrrrrrrr/SSSSSSSSSSSSSSSSSrrrrrrrrrrrrrrrr
+rrrrrrrrrrrr/SSSSSSSSSSSSSSSSSrrrrrrrrrrrrrrrr
+(((((((((((((SSSSSSSSSSSSSSSSSiitttiFiiiti((((
+             SSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+             SSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+             SSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+             SSSSSSSSSSSSSSSSSSSS222222222.
+         rrrrrrrrrrrrrrrrrrrrrrrrr
+         rrrrrrrrrrrrrrrrrrrrrrrrr
+         rrrrrrrrrrrrrrrrrrrrrrrrr
+         rrrrrrrrrrrr/rrrrrrrrrrrr
+     rrrrrrrrrrrrrrrrJJJJJJJJJrrrrrrrr
+     rrrrrrrrrrrrrrrrJJJJJJJJJrrrrrrrr
+     rrrrrrrrrrrrrrrrJJJJJJJJJrrrrrrrr
+     rrrrrrrrrrrrrrrrJJJJJJJJJrrrrrrrr
+     rrrrrrrrrrrrJJJJJJJJFSSSSJJJJJJJJ
+     rrrrrrrrrrrrJJJJJJJJJSSSSJJJJJJJJ
+     rrrrrrrrrrrrJJJJJJJJ(SSSSJJJJJJJJ
+     rrrrrrrrrrrrJJJJJJJJFSSSSJJJJJJJJ
+     rrrrrrrrrrr/rrrr7JJJsJJJJJJJJJJJJJJJJ-
+     rrrrrrrrrrrrrrrrJJJJJJJJJJJJJJJJJJJJJ
+     rrrrrrrrrrrrrrrrJJJJJJJJJJJJJJJJJJJJJ
+     rrrrrrrrrrrrrrrrJJJJJJJJJJJJJJJJJJJJJ
+     JJJ(rrrrSSSSSSSSSSSSlJJJJJJJJJJJJJJJJ
+     JJJJrrr/SSSSSSSSSSSSlJJJJJJJJJJJJJJJJ
+     JJJJrrr/SSSSSSSSSSSSlJJJJJJJJJJJJJJJJ
+     JJJJrrr/SSSSSSSSSSSSlJJJJJJJJJJJJJJJJ
+     JJJJ///rSSSSSSSSSSSSxJJJJJJJJJJJJJJJJ
+     JJJJJJJJSSSSSSSSJJJJJJJJJJJJJJJJJJJJJ
+     JJJJJJJJSSSSSSSSJJJJJJJJJJJJJJJJJJJJJ
+     JJJJJJJJSSSSSSSSJJJJJJJJJJJJJJJJJJJJJ
+     JJJJJJJJSSSSSSSS(JJJJJJJJJJJJJJJJJJJJ.
+     JJJJJJJJJJJJJJJJ    dJJJJJJJJJJJJ
+     JJJJJJJJJJJJJJJJ    dJJJJJJJJJJJJ
+     JJJJJJJJJJJJJJJJ    dJJJJJJJJJJJJ
+     JJJJJJJJJJJJJJJJ    dJJJJJJJJJJJJ
+     rrrrrrrrrrrr        drrrrrrrrrrrr
+     rrrrrrrrrrrr        drrrrrrrrrrrr
+     rrrrrrrrrrrr        drrrrrrrrrrrr
+     rrrrrrrrrrrr        drrrrrrrrrrrr
+     rrrrrrrrrrrrrrrr    drrrrrrrrrrrrr///
+     rrrrrrrrrrrrrrrr    drrrrrrrrrrrrrrrr
+     rrrrrrrrrrrrrrrr    drrrrrrrrrrrrrrrr
+     rrrrrrrrrrrrrrrr    drrrrrrrrrrrrrrrr
+
 
 Hlthmj(SJx2.((2jlxhd-^U-dh2jShhhdh2hltlxbShSss2dFS2djso2hxxjjh2x1Shj2S22S2SSSjjxjoxxlt11111iii1111iiiiii1ii1i11i111111111i1111111111i111iiiiiiii111iiiii111iiiiiiiiiiiFFFFFFFFFFii111toooooxoooooloxxoloxxxxox22hxotllltttlllltttlloxoojSbj2hSjxjjltt11iiiiii1i
 UiS1/JJllFlSjShljodt.m?dShjShjdxdbixbod22dl7thi11_/Sjoljj2o2jxjS22lxjj2j2jjxolllltt1111111iiiiiiFFiFiiiiiiFiFFFFiiiiiiiiii111iii11iiiii1iiiiiiiiiiiiFFFFFFFFFiiFFFFit11i11ttoooolooxxxxoolllttttltoxollllxjxxxxj22Hottt11tllottloojxxoS2S2j2xxoolxlt111iiiiiiiF
