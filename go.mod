@@ -1,3 +1,3 @@
-module imgToASCII
+module github.com/andersjosef/image-to-ASCII
 
-go 1.22
+go 1.22.2
