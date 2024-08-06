@@ -21,6 +21,6 @@ You can specify a step frequency to control the level of detail. The default is 
 ```
 
 ## Example
-Here is an simple example of an output 1/4 size 1192x1590 image:
+Here is an example of a standard output 1/4 size 1192x1590 image:
 
 <img src="example.png" width=500>
